@@ -49,3 +49,11 @@ body
     background: rgba(254, 254, 254, 0.92);
     padding:1em;
 }
+
+#footer
+{
+    background: #777;
+    color:rgb(127, 30, 98);
+    text-align: center;
+    padding: 0.5em;
+}
